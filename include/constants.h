@@ -143,7 +143,7 @@ namespace Constants
     constexpr int PIRMX5_POSITION_IN_POINTS_TOTAL1_INDEX    = 54;
     constexpr int PIRMX5_POSITION_IN_POINTS_TOTAL2_INDEX    = 55;
 
-    // PointInformationReplyMX5 indexes
+    // PointInformationReplyMX6 indexes
     constexpr int PIRMX6_SOH_INDEX                          = 0;
     constexpr int PIRMX6_SEQ_INDEX                          = 1;
     constexpr int PIRMX6_PACKET_LENGTH_INDEX                = 2;
